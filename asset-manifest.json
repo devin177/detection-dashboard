@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/detection-dashboard/static/css/main.87137d53.chunk.css",
+    "main.js": "/detection-dashboard/static/js/main.6c0ee193.chunk.js",
+    "main.js.map": "/detection-dashboard/static/js/main.6c0ee193.chunk.js.map",
+    "runtime-main.js": "/detection-dashboard/static/js/runtime-main.de4f8608.js",
+    "runtime-main.js.map": "/detection-dashboard/static/js/runtime-main.de4f8608.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/detection-dashboard/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.cf33d67c.chunk.js": "/detection-dashboard/static/js/2.cf33d67c.chunk.js",
+    "static/js/2.cf33d67c.chunk.js.map": "/detection-dashboard/static/js/2.cf33d67c.chunk.js.map",
+    "static/js/3.64273a99.chunk.js": "/detection-dashboard/static/js/3.64273a99.chunk.js",
+    "static/js/3.64273a99.chunk.js.map": "/detection-dashboard/static/js/3.64273a99.chunk.js.map",
+    "index.html": "/detection-dashboard/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/detection-dashboard/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.87137d53.chunk.css.map": "/detection-dashboard/static/css/main.87137d53.chunk.css.map",
+    "static/js/2.cf33d67c.chunk.js.LICENSE.txt": "/detection-dashboard/static/js/2.cf33d67c.chunk.js.LICENSE.txt",
+    "static/media/corona.7a357b22.jpg": "/detection-dashboard/static/media/corona.7a357b22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de4f8608.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.cf33d67c.chunk.js",
+    "static/css/main.87137d53.chunk.css",
+    "static/js/main.6c0ee193.chunk.js"
+  ]
+}
